@@ -1,0 +1,1254 @@
+Apocalyptica(tm)
+
+ReadMe Version 1.0
+
+A) ENGLISH
+B) DEUTSCH
+C) FRANÇAIS
+D) ESPAÑOL
+E) ITALIANO
+F) NEDERLANDS
+
+
+
+A) ENGLISH
+
+Thank you for purchasing Apocalyptica(tm) for PC.  This file contains detailed 
+technical information. Please read it through carefully.
+
+
+TABLE OF CONTENTS
+---------------------------------------------------------------------------
+1)   SYSTEM REQUIREMENTS
+2)   INSTALLATION
+3)   AUTORUN MENU
+4)   STARTING THE GAME
+5)   UNINSTALLING THE GAME
+6)   MEMORY AND PERFORMANCE
+7)   APOCALYPTICA(tm) CD SECURITY
+8)   GRAPHICS 
+9)   MULTIPLAYER AND KEYS
+10)  APOCALYPTICA(tm) WEBSITES
+11)  TECHNICAL SUPPORT
+
+---------------------------------------------------------------------------
+
+  
+1)  SYSTEM REQUIREMENTS 
+---------------------------------------------------------------------------
+Minimum System Requirements
+  Microsoft(r) Windows(r) 98 SE/ME/2000/XP
+  Intel(r) Pentium(r) III 800 MHz or equivalent processor 
+  128 MB RAM 
+  4x CD/DVD ROM 
+  32 MB NVIDIA(r) GeForce(tm) 2 video card, ATI(r) RADEON(tm) 8500/9100 or equivalent        
+  graphics card
+  Microsoft(r) DirectSound(r) 8 compatible sound card
+  Microsoft(r) DirectX(r) 8.1 or higher (included on CD)
+  1.2 GB free hard disk space
+  
+Recommended
+  Intel(r) Pentium(r) 4 1.3 GHz processor or equivalent processor 
+  256 MB RAM
+  16x CD-ROM or  2x DVD-ROM
+  64 MB NVIDIA(r) GeForce(tm) video card or equivalent graphics card
+  Creative(tm) Soundblaster Live!(tm) sound card
+  
+  For the best online multiplayer gaming experience, a broadband internet 
+  connection is required.
+ 
+
+NOTE: It may be necessary to update your hardware drivers before playing.
+
+
+2)  INSTALLATION
+---------------------------------------------------------------------------
+Insert the Apocalyptica(tm) CD 1 into your CD-ROM or DVD-ROM drive. After a few seconds, the Autorun Menu will appear. Click on Install to run the installer and follow the on-screen prompts.
+
+In the event the Autorun Menu does not appear after inserting the CD: 
+Double-click on the My Computer icon, then double-click on the CD/DVD-ROM icon, and lastly double-click on the Autorun.exe file to bring up the 
+Autorun Menu.
+
+You will initially be prompted to select the install path and directory.  The 
+default install path is C:\Program Files\Konami\Apocalyptica. The installation
+program will give the user the option to install DirectX 8.1. Only install this 
+version if you have got a lower version of DirectX running on your machine.
+
+Please note that the game will not install if you attempt to install to a directory that is 256 characters or longer. 
+
+You should now be able to play Apocalyptica(tm). 
+
+Note:If you are using Windows XP or Windows 2000, you must have 
+administrator rights to install and run Apocalyptica(tm). 
+  
+
+3)  AUTORUN MENU
+---------------------------------------------------------------------------
+The Autorun Menu will appear any time Apocalyptica(tm) CD 1 is inserted into the 
+CD/DVD ROM drive. The menu has several options:
+
+*	Play - only available after you have installed the game, click to start 
+	playing Apocalyptica(tm). 
+*	Install - only available if you don't have Apocalyptica(tm) installed on your 
+	system. Click to install the game. 
+*	Uninstall - only available once Apocalyptica(tm) has been installed on your 
+	system. Click to uninstall the game.
+*	Readme - Instruction guide. 
+
+
+4)  STARTING THE GAME
+---------------------------------------------------------------------------
+To begin playing Apocalyptica(tm) insert CD 1 into the CD-ROM or DVD-ROM drive and select Play. Alternatively, click on the Apocalyptica(tm) icon found within the Konami\Apocalyptica program folder. (Start Menu - Programs - Konami -  Apocalyptica). 
+ 
+
+5)  UNINSTALLING THE GAME
+---------------------------------------------------------------------------
+If you need to uninstall Apocalyptica(tm) you may do any of the following: 
+
+*	Insert the Apocalyptica(tm) CD 1 and select Uninstall from the Autorun Menu. 
+*	Click on the START button, choose Programs, Konami, Apocalyptica(tm) and 
+	click on Uninstall Apocalyptica(tm). 
+*	Click on the START button, go to Control Panel, Add/Remove 
+	Programs and choose Apocalyptica(tm) to uninstall the game.
+ 
+
+6)  MEMORY AND PERFORMANCE
+---------------------------------------------------------------------------
+Apocalyptica(tm) requires at least 128 MB of RAM and a Pentium(r) III 800 MHz 
+processor; the performance of the game will improve if you have more RAM, a 
+faster processor and graphics card. Regardless of your machine specs, you 
+can maximize your available memory and increase the overall performance of 
+the game by doing the following: 
+
+*	Shut down all non-essential Windows programs especially online chat 
+	programs, virus checkers and screen layout utilities. 
+*	Regularly defragment your hard disk. 
+*	Increase your amount of free hard disk space
+
+
+7)  APOCALYPTICA(tm) CD SECURITY
+---------------------------------------------------------------------------
+
+Apocalyptica(tm) needs to read data from CD 1 from time to time. Please ensure that 
+CD 1 is always in your CD drive. Removing the CD may cause Security features to 
+be activated which will affect the performance of Apocalyptica(tm)
+
+
+8)  GRAPHICS 
+---------------------------------------------------------------------------
+
+Apocalyptica(tm) requires a graphics card with 3D hardware acceleration and at 
+least 32 MB of RAM. The drivers for your graphic card must support DirectX 8.1 
+or higher.  If you are having any problems running the game, please ensure 
+you have updated your graphics card drivers before contacting technical support.
+
+If  you turn Power Management on in Windows ME systems, the game will display graphical corruption and eventually crash.
+
+Users can only change the colour quality from the Display properties found under
+Settings - Control Panel - Display - Display Properties.
+
+If the game is too dark, turn off "Dynamic Lighting" in the options menu under the Video tab.
+
+NOTE:  3Dfx cards  - 3Dfx cards are not officially supported.  Unfortunately, 3Dfx no longer releases updated drivers for their chipsets and do not support certain features of DirectX 8.    
+You may be able to find an updated driver at the following web site: http://www.voodoofiles.com/.
+ 
+PLEASE NOTE:  If you choose to install new 3Dfx drivers, you do so at your own risk!
+
+
+9) MULTIPLAYER AND KEYS 
+---------------------------------------------------------------------------
+
+MULTIPLAYER
+
+Users will not be able to play multiplayer games when running behind a firewall or router.
+
+When playing a multiplayer game, all text displayed will appear in the language of the host machine.
+
+KEYS
+
+If a user binds the windows key to any control, every time the user presses that key, the game will perform the function desired as well as change to Windows and launch the Start Menu.
+
+All passwords are case sensitive.
+
+ 
+10)  APOCALYPTICA(tm) WEBSITES
+---------------------------------------------------------------------------
+Konami Global Website 
+http://www.konami.com
+
+Konami of Europe 
+http://www.konami-europe.com
+
+Konamistyle Europe
+http://www.konamistyle-europe.com 
+
+Konami of America Apocaylptica Website
+http://www.konami.com/apocalyptica/
+
+Official Apocalyptica(tm) Website
+http://www.apocalyptica.net/
+
+
+ 
+11)  TECHNICAL SUPPORT
+---------------------------------------------------------------------------
+If you need help with Apocalyptica(tm) contact us on the number below:
+ 
+Konami UK Technical Suppport (UK only!)
+020 8582 5573
+ 
+For the latest patches, updates and information, please visit the official Apocalyptica website at www.apocalyptica.net
+
+If you are having problems running the game, you may want to try updating 
+your graphics card drivers before contacting technical support:
+
+3D labs
+www.3dlabs.com
+
+ATI Technologies
+www.atitech.com
+
+Creative Labs
+www.creativelabs.com
+
+ELSA
+www.elsa.com
+
+Hercules
+www.hercules.com
+
+Matrox
+www.matrox.com
+
+NVIDIA
+www.nvidia.com
+
+PowerVR
+www.powervr.com
+ 
+
+
+
+
+
+
+
+B) DEUTSCH
+
+Danke, dass Sie Apocalyptica(tm) für den PC gekauft haben. Die vorliegende Datei enthält detaillierte technische Informationen. Bitte lesen Sie sie sorgfältig durch.
+
+
+INHALTSANGABE
+---------------------------------------------------------------------------
+1)   SYSTEMANFORDERUNGEN
+2)   INSTALLATION
+3)   AUTORUN-MENÜ
+4)   DAS SPIEL STARTEN
+5)   DAS SPIEL DEINSTALLIEREN
+6)   SPEICHER UND LEISTUNG
+7)   APOCALYPTICA(tm) CD-SICHERHEIT
+8)   GRAFIK
+9)   MULTIPLAYER UND TASTEN
+10)  APOCALYPTICA(tm)-WEBSITES
+11)  TECHNISCHE UNTERSTÜTZUNG
+
+---------------------------------------------------------------------------
+
+  
+1)  SYSTEMANFORDERUNGEN
+---------------------------------------------------------------------------
+Mindestsystemanforderungen
+  Microsoft(r) Windows(r) 98 SE/ME/2000/XP
+  Intel(r) Pentium(r) III 800 MHz oder ein gleichwertiger Prozessor
+  128 MB RAM 
+  4x-CD/DVD-ROM 
+  32 MB-NVIDIA(r) GeForce(tm) 2-Grafikkarte, ATI(r) RADEON(tm) 8500/9100 oder gleichwertige Grafikkarte
+  Microsoft(r) DirectSound(r) 8.kompatible Soundkarte
+  Microsoft(r) DirectX(r) 8.1 oder höher (auf der CD mitgeliefert)
+  1,2 GB freier Festplattenspeicherplatz
+  
+Empfohlen
+  Intel(r) Pentium(r) 4 1,3 GHz-Prozessor oder gleichwertiger Prozessor 
+  256 MB RAM
+  16x-CD-ROM oder 2x-DVD-ROM
+  64 MB NVIDIA(r) GeForce(tm)-Grafikkarte oder gleichwertige Grafikkarte
+  Creative(tm) Soundblaster Live!(tm)-Soundkarte
+  
+  Beim Multiplayer-Spiel werden die besten Ergebnisse mit einem Breitband-Internetanschluss erzielt.
+ 
+
+HINWEIS: Unter Umständen müssen vor dem Spielen Ihre Hardware-Treiber aktualisiert werden.
+
+
+2)  INSTALLATION
+---------------------------------------------------------------------------
+Legen Sie die Apocalyptica(tm)-CD 1 in Ihr CD-ROM- oder DVD-ROM-Laufwerk ein. Nach einigen Sekunden erscheint das Autorun-Menü. Klicken Sie auf Install (Installieren), um das Installationsprogramm zu starten, und folgen Sie den Anweisungen auf dem Bildschirm.
+
+Falls das Autorun-Menü nach dem Einlegen der CD nicht erscheint: 
+Doppelklicken Sie auf das Arbeitsplatz-Icon, dann auf das CD/DVD-ROM-Icon und schließlich auf die Datei Autorun.exe, um das Autorun-Menü aufzurufen.
+
+Zunächst werden Sie aufgefordert, den Pfad und das Verzeichnis für die Installation zu wählen. Der Standardpfad für die Installation ist C:\Programme\Konami\Apocalyptica. Das Installationsprogramm bietet dem Anwender die Möglichkeit, DirectX 8.1 zu installieren. Installieren Sie diese Version nur, wenn auf Ihrem Computer eine ältere Version von DirectX läuft.
+
+Bitte beachten Sie, dass das Spiel nicht installiert wird, wenn Sie versuchen, es in ein Verzeichnis von 256 Zeichen oder länger zu installieren. 
+
+Jetzt können Sie Apocalyptica(tm) spielen. 
+
+Hinweis: Wenn Sie Windows XP oder Windows 2000 verwenden, müssen Sie Administrator-Rechte besitzen, um Apocalyptica(tm) zu installieren und zu starten. 
+  
+
+3)  AUTORUN-MENÜ
+---------------------------------------------------------------------------
+Das Autorun-Menü erscheint, sobald die Apocalyptica(tm)-CD 1 in das CD/DVD-ROM-Laufwerk eingelegt wird. Das Menü hat verschiedene Optionen:
+
+*	Play (Spielen) - erst dann verfügbar, wenn Sie das Spiel installiert haben. Bitte klicken Sie hier, um Apocalyptica(tm) zu starten und zu spielen. 
+*	Install (Installieren) - nur verfügbar, solange Sie Apocalyptica(tm) noch nicht auf Ihrem System installiert haben. Bitte klicken Sie hier, um das Spiel zu installieren. 
+*	Uninstall (Deinstallieren) - erst dann verfügbar, wenn Sie Apocalyptica(tm) auf Ihrem System installiert haben. Bitte klicken Sie hier, um das Spiel zu deinstallieren.
+*	Readme (Liesmich) - Aktuelle Informationen zum Spiel. 
+
+
+4)  DAS SPIEL STARTEN
+---------------------------------------------------------------------------
+Um Apocalyptica(tm) zu starten, legen Sie die CD 1 in Ihr CD-ROM- oder DVD-ROM-Laufwerk ein und wählen Sie Play (Spielen). Alternativ können Sie das Apocalyptica(tm)-Icon anklicken, das Sie im Programmverzeichnis Konami\Apocalyptica finden. (Start-Menü - Programme - Konami - Apocalyptica). 
+ 
+
+5)  DAS SPIEL DEINSTALLIEREN
+---------------------------------------------------------------------------
+Wenn Sie Apocalyptica(tm) deinstallieren müssen, können Sie auf eine der folgenden Weisen vorgehen: 
+
+*	Legen Sie die Apocalyptica(tm)-CD 1 ein und wählen Sie im Autorun-Menü Uninstall (Deinstallieren). 
+*	Klicken Sie die Schaltfläche START an, wählen Sie Programme, Konami, Apocalyptica(tm), und klicken Sie auf Uninstall Apocalyptica(tm) (Apocalyptica(tm) deinstallieren). 
+*	Klicken Sie die Schaltfläche START an, gehen Sie auf Systemsteuerung, Software Installieren/Deinstallieren, und wählen Sie Apocalyptica(tm), um das Spiel zu deinstallieren.
+ 
+
+6)  SPEICHER UND LEISTUNG
+---------------------------------------------------------------------------
+Apocalyptica(tm) benötigt mindestens 128 MB RAM und einen Pentium(r) III 800 MHz-Prozessor; durch mehr RAM, einen schnelleren Prozessor und eine schnellere Grafikkarte wird die Leistung des Spiels verbessert. Ungeachtet der Spezifikation Ihres Gerätes können Sie Ihren verfügbaren Speicher jedoch folgendermaßen maximieren und die Gesamtleistung des Spiels optimieren: 
+
+*	Schließen Sie alle nicht erforderlichen Windows-Programme, insbesondere Online-Chatprogramme, Virenprüfprogramme und Hilfsprogramme für den Bildschirmaufbau. 
+*	Defragmentieren Sie regelmäßig Ihre Festplatte. 
+*	Erhöhen Sie Ihren freien Festplattenspeicherplatz. 
+
+
+7)  APOCALYPTICA(tm) CD-SICHERHEIT
+---------------------------------------------------------------------------
+
+Apocalyptica(tm) muss von Zeit zu Zeit Daten von der CD 1 einlesen. Bitte achten Sie darauf, dass sich die CD 1 immer in Ihrem CD-Laufwerk befindet. Das Entfernen der CD kann unter Umständen Sicherheitsmerkmale aktivieren, die die Leistung von Apocalyptica(tm) beeinträchtigen. 
+
+
+8)  GRAFIK 
+---------------------------------------------------------------------------
+
+Für Apocalyptica(tm) sind eine Grafikkarte mit 3D-Hardwarebeschleuniger und mindestens 32 MB RAM erforderlich. Die Treiber für Ihre Grafikkarte müssen DirectX 8.1 oder höher unterstützen. Sollten Sie Probleme haben, das Programm abzuspielen, vergewissern Sie sich bitte, dass Sie Ihre Grafikkartentreiber aktualisiert haben, bevor Sie sich an die technische Unterstützung wenden.
+
+Das Einschalten des Power Managements auf Windows ME-Systemen führt zu grafischen Störungen im Spiel und schließlich zum Absturz des Programms.
+
+Anwender können nur die Farbqualität unter Eigenschaften von Anzeige über Einstellungen - Systemsteuerung - Anzeige - Einstellungen ändern.
+
+Wenn das Spiel zu dunkel ist, deaktivieren Sie die "Dynamische Beleuchtung" im Optionen-Menü unter der Video-Registerkarte.
+
+HINWEIS: 3Dfx-Karten - 3Dfx-Karten werden nicht offiziell unterstützt. Leider gibt 3Dfx keine aktualisierten Treiber für seine Chipsätze mehr aus und unterstützt bestimmte Eigenschaften von DirectX 8 nicht. 
+Unter Umständen können Sie unter der folgenden Webseite einen aktualisierten Treiber finden: http://www.voodoofiles.com/.
+ 
+BITTE BEACHTEN SIE: Wenn Sie sich dafür entscheiden, neue 3Dfx-Treiber zu installieren, so geschieht das auf Ihr eigenes Risiko!
+
+
+9) MULTIPLAYER UND TASTEN
+---------------------------------------------------------------------------
+
+MULTIPLAYER
+
+Das Spielen von Multiplayer-Spielen ist nicht möglich, wenn ein Router benutzt wird oder eine Firewall in Betrieb ist.
+
+Beim Spielen eines Multiplayer-Spiels wird der gesamte Text in der Sprache des Host-Computers angezeigt.
+
+TASTEN
+
+Wenn ein Anwender die Windows-Taste mit einer Funktion verbindet, dann führt bei jedem Drücken dieser Taste das Programm die gewünschte Funktion aus und wechselt zu Windows und startet das Start-Menü.
+
+Bei der Passworteingabe sind Klein- und Großschreibung zu beachten.
+
+ 
+10)  APOCALYPTICA(tm)-WEBSITES
+---------------------------------------------------------------------------
+Globale Konami-Website 
+http://www.konami.com
+
+Konami of Europe 
+http://www.konami-europe.com
+
+Konamistyle Europe
+http://www.konamistyle-europe.com 
+
+Konami of America Apocaylptica Website
+http://www.konami.com/apocalyptica/
+
+Offizielle Apocalyptica(tm)-Website
+http://www.apocalyptica.net/
+
+
+ 
+11)  TECHNISCHE UNTERSTÜTZUNG
+---------------------------------------------------------------------------
+Wenn Sie zu Apocalyptica(tm) Hilfe benötigen, wenden Sie sich bitte unter einer der folgenden Nummern an uns:
+
+Deutschland    Benötigen Sie Hilfe zu Apocalyptica(tm)?
+          		Konami-Helpline-Nummer für Deutschland: 0190-824 694
+             	(Dieser Service kostet 1,86 Euro/Minute und ist ausschließlich
+               aus Deutschland zu erreichen. Bitte holen Sie vor dem Anruf die  
+               Genehmigung des Rechnungszahlers ein!)
+
+ 		     Technische Unterstützung zu Konami-PC-Spielen: 0190-745 247	
+ 		     (Dieser Service kostet 1,25 Euro/Minute und ist ausschließlich   
+               aus Deutschland zu erreichen. Bitte holen Sie vor dem Anruf die  
+               Genehmigung des Rechnungszahlers ein!)
+
+
+Die neuesten Patches, Updates und Informationen finden Sie auf der offiziellen Apocalyptica-Website unter www.apocalyptica.net.
+
+Wenn beim Spielen des Spiels Probleme auftreten, könnten Sie es mit einer Aktualisierung Ihrer Grafikkartentreiber versuchen, bevor Sie sich an die Technische Unterstützung wenden:
+
+3D labs
+www.3dlabs.com
+
+ATI Technologies
+www.atitech.com
+
+Creative Labs
+www.creativelabs.com
+
+ELSA
+www.elsa.com
+
+Hercules
+www.hercules.com
+
+Matrox
+www.matrox.com
+
+NVIDIA
+www.nvidia.com
+
+PowerVR
+www.powervr.com
+
+
+
+
+
+
+
+
+C) FRANÇAIS
+
+Merci d'avoir acheté Apocalyptica(tm) pour PC. Ce fichier contient des informations techniques détaillées. Lisez-le attentivement.
+
+
+SOMMAIRE
+---------------------------------------------------------------------------
+1)   CONFIGURATION SYSTÈME
+2)   INSTALLATION
+3)   MENU D'EXÉCUTION AUTOMATIQUE
+4)   DÉMARRAGE DU JEU
+5)   DÉSINSTALLATION DU JEU
+6)   MÉMOIRE ET PERFORMANCES
+7)   FONCTIONS DE SÉCURITÉ DU CD D'APOCALYPTICA(tm)
+8)   GRAPHIQUES
+9)   MULTIJOUEUR ET TOUCHES
+10)  SITES WEB D'APOCALYPTICA(tm)
+11)  ASSISTANCE TECHNIQUE
+
+---------------------------------------------------------------------------
+
+  
+1)  CONFIGURATION SYSTÈME
+---------------------------------------------------------------------------
+Configuration système requise
+  Microsoft(r) Windows(r) 98 SE/ME/2000/XP
+  Processeur Intel(r) Pentium(r) III cadencé à 800 MHz ou équivalent
+  128 Mo de RAM 
+  Lecteur de CD/DVD ROM 4x
+  Carte graphique NVIDIA(r) GeForce(tm) 2, ATI(r) RADEON(tm) 8500/9100 32 Mo ou équivalente 
+  Carte son compatible avec Microsoft(r) DirectSound(r) 8
+  Microsoft(r) DirectX(r) 8.1 ou supérieur (inclus sur le CD)
+  1,2 Go d'espace disque dur
+  
+Configuration système recommandée
+  Processeur Intel(r) Pentium(r) 4 cadencé à 1,3 GHz ou équivalent
+  256 Mo de RAM
+  Lecteur de CD-ROM 16x ou DVD-ROM 2x
+  Carte graphique NVIDIA(r) GeForce(tm) 64 Mo ou équivalente
+  Carte son Creative(tm) Soundblaster Live!(tm)
+  
+  Pour une expérience de jeu optimale en mode multijoueur en ligne, une connexion à Internet à bande large est requise.
+ 
+
+REMARQUE : vous devrez peut-être actualiser les pilotes de votre matériel avant de jouer.
+
+
+2)  INSTALLATION
+---------------------------------------------------------------------------
+Insérez le CD 1 d'Apocalyptica(tm) dans votre lecteur de CD-ROM ou DVD-ROM. Après quelques secondes, le menu d'exécution automatique apparaît. Cliquez sur Installer pour exécuter le programme d'installation et suivez les instructions à l'écran.
+
+Si le menu d'exécution automatique n'apparaît pas après l'insertion du CD : 
+Double-cliquez sur l'icône Poste de travail, puis sur l'icône du CD/DVD-ROM et enfin sur le fichier Autorun.exe pour accéder au menu d'exécution automatique.
+
+Vous serez d'abord invité à sélectionner le chemin et le répertoire d'installation. Le chemin d'installation par défaut est C:\Program Files\Konami\Apocalyptica. Le programme d'installation propose à l'utilisateur d'installer DirectX 8.1. Installez cette version si une version précédente de DirectX est installée sur votre ordinateur.
+
+Notez que ce jeu ne sera pas installé si vous tentez de l'installer dans un répertoire comportant 256 caractères ou plus.
+
+Vous pouvez commencer à jouer à Apocalyptica(tm). 
+
+Remarque : si vous utilisez Windows XP ou Windows 2000, vous devez détenir les droits administrateur pour installer et exécuter Apocalyptica(tm).
+  
+
+3)  MENU D'EXÉCUTION AUTOMATIQUE
+---------------------------------------------------------------------------
+Le menu d'exécution automatique apparaît chaque fois que le CD 1 d'Apocalyptica(tm) est inséré dans le lecteur de CD/DVD ROM. Ce menu comporte plusieurs options :
+
+*	Play (Jouer) - uniquement disponible si vous avez installé le jeu. Cliquez sur cette option pour commencer à jouer à Apocalyptica(tm). 
+*	Install (Installer) - uniquement disponible si vous n'avez pas installé Apocalyptica(tm) sur votre ordinateur. Cliquez sur cette option pour installer le jeu.
+*	Uninstall (Désinstaller) - uniquement disponible une fois qu'Apocalyptica(tm) a été installé sur votre ordinateur. Cliquez sur cette option pour désinstaller le jeu.
+*	Readme (Lisez-moi) - instructions.
+
+
+4)  DÉMARRAGE DU JEU
+---------------------------------------------------------------------------
+Pour commencer à jouer à Apocalyptica(tm), insérez le CD 1 dans le lecteur de CD-ROM ou DVD-ROM et sélectionnez Play (Jouer). Vous pouvez également cliquer sur l'icône Apocalyptica(tm) qui se trouve dans le dossier Konami\Apocalyptica (menu Démarrer - Programmes - Konami -  Apocalyptica). 
+ 
+
+5)  DÉSINSTALLATION DU JEU
+---------------------------------------------------------------------------
+Si vous souhaitez désinstaller Apocalyptica(tm), vous pouvez procéder de l'une des manières suivantes :
+
+*	Insérez le CD 1 d'Apocalyptica(tm) et sélectionnez Uninstall (Désinstaller) dans le menu d'exécution automatique.
+*	Cliquez sur le bouton DÉMARRER, choisissez Programmes, Konami, Apocalyptica(tm) et cliquez sur Uninstall Apocalyptica(tm) (Désinstaller Apocalyptica(tm)). 
+*	Cliquez sur le bouton DÉMARRER, allez dans Panneau de configuration, Ajouter/Supprimer et choisissez Apocalyptica(tm) pour désinstaller le jeu.
+ 
+
+6)  MÉMOIRE ET PERFORMANCES
+---------------------------------------------------------------------------
+Apocalyptica(tm) nécessite un minimum de 128 Mo de RAM et un processeur Pentium(r) III cadencé à 800 MHz. Les performances de ce jeu seront meilleures si vous avez plus de RAM, et un processeur et une carte graphique plus rapides. Quelle que soit la configuration de votre ordinateur, vous pouvez optimiser la mémoire disponible et améliorer les performances globales du jeu en procédant comme suit : 
+
+*	Fermez tous les programmes Windows qui ne vous servent pas, notamment les programmes de chat en ligne, les détecteurs de virus et les utilitaires d'agencement de l'écran.
+*	Défragmentez régulièrement votre disque dur.
+*	Faites de la place sur votre disque dur.
+
+
+7)  FONCTIONS DE SÉCURITÉ DU CD D'APOCALYPTICA(tm)
+---------------------------------------------------------------------------
+
+Apocalyptica(tm) a besoin de lire des données sur le CD 1 de temps en temps. Assurez-vous que le CD 1 est toujours inséré dans votre lecteur de CD. Si vous retirez le CD, vous risquez d'activer des fonctions de sécurité qui affecteront les performances d'Apocalyptica(tm).
+
+
+8)  GRAPHIQUES 
+---------------------------------------------------------------------------
+
+Apocalyptica(tm) nécessite une carte graphique à accélération 3D et d'au moins 32 Mo de RAM. Les lecteurs de votre carte graphique doivent prendre DirectX 8.1 ou supérieur en charge. Si vous rencontrez des problèmes d'exécution du jeu, procurez-vous les pilotes les plus récents pour votre carte graphique avant de contacter le service d'assistance technique.
+
+Si vous activez la fonction Gestion de l'énergie dans le système Windows ME, le jeu n'affiche pas les graphiques correctement et finit par planter.
+
+Les utilisateurs ne peuvent modifier la qualité des couleurs que dans les propriétés d'affichage qui se trouvent sous Paramètres - Panneau de configuration - Affichage - Propriétés d'affichage.
+
+Si le jeu est trop sombre, désactivez " Lumières dynamiques " dans le menu des options de l'onglet Vidéo.
+
+REMARQUE : cartes 3Dfx - les cartes 3Dfx ne sont pas officiellement prises en charge. Malheureusement, 3Dfx ne fournit plus de pilotes actualisés et ne prend plus en charge certaines fonctions de DirectX 8.
+Vous pourrez peut-être trouver un pilote récent sur le site Web suivant : http://www.voodoofiles.com/.
+ 
+REMARQUE : si vous choisissez d'installer de nouveaux pilotes 3Dfx, vous le faites à vos risques et périls !
+
+
+9)  MULTIJOUEUR ET TOUCHES
+---------------------------------------------------------------------------
+
+MULTIJOUEUR
+
+Les utilisateurs qui jouent avec un pare-feu ou un routeur ne pourront pas jouer en mode multijoueur.
+
+Lorsque vous jouez dans une partie multijoueur, tout le texte affiché apparaît dans la langue de l'ordinateur hôte.
+
+TOUCHES
+
+Si un utilisateur affecte une touche Windows à une commande, chaque fois qu'il appuiera sur cette touche, le jeu exécutera la fonction souhaitée et passera dans Windows pour lancer le menu Démarrer.
+
+Tous les mots de passe respectent la casse.
+
+ 
+10)  SITES WEB D'APOCALYPTICA(tm)
+---------------------------------------------------------------------------
+Site Web international de Konami
+http://www.konami.com
+
+Konami Europe 
+http://www.konami-europe.com
+
+Konamistyle Europe
+http://www.konamistyle-europe.com 
+
+Site Web de Konami America Apocaylptica
+http://www.konami.com/apocalyptica/
+
+Site Web officiel d'Apocalyptica(tm)
+http://www.apocalyptica.net/
+
+
+ 
+11)  ASSISTANCE TECHNIQUE
+---------------------------------------------------------------------------
+Vous avez besoin d'aide pour Apocalyptica(tm) ?
+Hot Line : 08 92 68 16 15 (0,34 euro/min)
+
+Pour les mises à jour, les informations et les correctifs les plus récents, visitez le site Web officiel d'Apocalyptica à l'adresse suivante : www.apocalyptica.net.
+
+Si vous avez des questions sur l'exécution du jeu, essayez de vous procurer les pilotes de carte graphique les plus récents avant de contacter le service d'assistance technique :
+
+3D labs
+www.3dlabs.com
+
+ATI Technologies
+www.atitech.com
+
+Creative Labs
+www.creativelabs.com
+
+ELSA
+www.elsa.com
+
+Hercules
+www.hercules.com
+
+Matrox
+www.matrox.com
+
+NVIDIA
+www.nvidia.com
+
+PowerVR
+www.powervr.com
+ 
+
+
+
+
+
+
+
+D) ESPAÑOL
+
+Gracias por adquirir Apocalyptica(tm) para PC. Este archivo contiene información
+técnica detallada. Por favor, léelo atentamente.
+
+
+ÍNDICE
+---------------------------------------------------------------------------
+1) REQUISITOS DEL SISTEMA
+2) INSTALACIÓN
+3) MENÚ DE REPRODUCCIÓN AUTOMÁTICA
+4) INICIO DEL JUEGO
+5) CÓMO DESINSTALAR EL JUEGO
+6) MEMORIA Y RENDIMIENTO
+7) SEGURIDAD DEL CD DE APOCALYPTICA(tm)
+8) GRÁFICOS
+9) MULTIJUGADOR Y TECLADO
+10) PÁGINAS WEB DE APOCALYPTICA(tm)
+11) ASISTENCIA TÉCNICA
+
+---------------------------------------------------------------------------
+
+ 
+1) REQUISITOS DEL SISTEMA
+---------------------------------------------------------------------------
+Requisitos mínimos del sistema
+ Microsoft(r) Windows(r) 98 SE/ME/2000/XP
+ Procesador Intel(r) Pentium(r) III a 800 MHz o equivalente
+ 128 MB de RAM
+ CD/DVD ROM 4x
+ Tarjeta gráfica NVIDIA(r) GeForce(tm) 2 de 32 MB, ATI(r) RADEON(tm) 8500/9100 o equivalente
+ tarjeta gráfica
+ Tarjeta de sonido compatible con Microsoft(r) DirectSound(r) 8
+ Microsoft(r) DirectX(r) 8.1 o superior (incluido en el CD)
+ 1,2 GB de espacio libre en el disco duro
+ 
+Recomendados
+ Procesador Intel(r) Pentium(r) 4 a 1.3 GHz o equivalente
+ 256 MB de RAM
+ CD-ROM 16x o DVD-ROM 2x
+ Tarjeta de vídeo NVIDIA(r) GeForce(tm) de 64 MB o tarjeta gráfica equivalente
+ Tarjeta de sonido Creative(tm) SoundBlaster Live!(tm)
+ 
+ Para vivir una experiencia multijugador online inolvidable, necesitas una conexión
+ a Internet de banda ancha.
+ 
+
+NOTA: Puede que necesites actualizar los controladores del hardware antes de empezar a jugar.
+
+
+2) INSTALACIÓN
+---------------------------------------------------------------------------
+Introduce el CD 1 de Apocalyptica(tm) en la unidad de CD-ROM o DVD-ROM. En unos segundos, aparecerá el menú de reproducción automática. Pulsa el botón Install (instalar) para ejecutar el programa de instalación y sigue las instrucciones en pantalla.
+
+En caso de no aparecer el menú de reproducción automática después de introducir el CD: 
+haz doble clic sobre el icono de Mi PC, después haz doble clic en el icono de la unidad de CD/DVD-ROM y por último haz doble clic en el archivo Autorrun.exe para que aparezca el
+menú de reproducción automática.
+
+Al principio, se te pedirá que selecciones la ruta de instalación y el directorio. La
+ruta de instalación predeterminada es C:\Archivos de programa\Konami\Apocalyptica. El programa
+de instalación ofrecerá al usuario la opción de instalar DirectX 8.1. Instala esta versión
+únicamente si tienes una versión anterior de DirectX en ejecución en el ordenador.
+
+Ten en cuenta que el juego no se instalará si intentas ubicarlo en un directorio de 256 caracteres o más. 
+
+Ahora ya puedes disfrutar de Apocalyptica(tm). 
+
+Nota: si utilizas Windows XP o Windows 2000, debes tener
+derechos de administrador para instalar y ejecutar Apocalyptica(tm). 
+ 
+
+3) MENÚ DE REPRODUCCIÓN AUTOMÁTICA
+---------------------------------------------------------------------------
+El menú de reproducción automática aparecerá cuando introduzcas el CD 1 de Apocalyptica(tm) en la
+unidad de CD/DVD ROM. El menú incluye varias opciones:
+
+*	Jugar: solo disponible cuando hayas instalado el juego, púlsala para empezar
+	a jugar a Apocalyptica(tm). 
+*	Instalar: solo disponible si no tienes instalado Apocalyptica(tm) en el 
+	sistema. Púlsala para instalar el juego. 
+*	Desinstalar: solo disponible cuando tengas instalado Apocalyptica(tm) en el 
+	sistema. Púlsala para desinstalar el juego.
+*	Léeme: guía de instrucciones. 
+
+
+4) INICIO DEL JUEGO
+---------------------------------------------------------------------------
+Para empezar a jugar a Apocalyptica(tm), introduce el CD 1 en la unidad de CD-ROM o DVD-ROM y selecciona Jugar. O bien pulsa sobre el icono de Apocalyptica(tm) dentro de la carpeta de programas Konami\Apocalyptica. (Menú Inicio - Programas - Konami - Apocalyptica). 
+ 
+
+5) CÓMO DESINSTALAR EL JUEGO
+---------------------------------------------------------------------------
+Si deseas desinstalar Apocalyptica(tm) puedes seguir cualquiera de los siguientes pasos: 
+
+*	Introduce el CD 1 de Apocalyptica(tm) y selecciona Desinstalar desde el menú de reproducción automática. 
+*	Haz clic en el botón Inicio, elige Programas, Konami, Apocalyptica(tm) y
+	pulsa sobre Desinstalar Apocalyptica(tm). 
+*	Pulsa el botón Inicio, accede al Panel de control, Agregar o quitar
+	programas y selecciona Apocalyptica(tm) para desinstalar el juego.
+ 
+
+6) MEMORIA Y RENDIMIENTO
+---------------------------------------------------------------------------
+Apocalyptica(tm) requiere al menos 128 MB de RAM y un procesador Pentium(r) III 
+a 800 MHz, el rendimiento del juego mejorará si tienes más memoria RAM y un
+procesador y tarjeta gráfica superiores. Independientemente de las características del ordenador, 
+podrás sacar más provecho a la memoria disponible y mejorar así el rendimiento general
+del juego haciendo lo siguiente: 
+
+*	Cierra todos los programas de Windows que no sean necesarios, sobretodo los de chat online,
+	antivirus y las aplicaciones de disposición de la pantalla. 
+*	Desfragmenta el disco duro con regularidad. 
+*	Aumenta la cantidad de espacio libre en el disco duro.
+
+
+7) SEGURIDAD DEL CD DE APOCALYPTICA(tm)
+---------------------------------------------------------------------------
+
+Apocalyptica(tm) necesita leer datos del CD 1 cada cierto tiempo. Asegúrate de que el
+CD 1 esta siempre dentro de la unidad de CD. Si retiras el CD podías provocar la activación de las 
+funciones de seguridad y el rendimiento de Apocalyptica(tm) se vería afectado.
+
+
+8) GRÁFICOS
+---------------------------------------------------------------------------
+
+Apocalyptica(tm) requiere una tarjeta gráfica con aceleración 3D del hardware y al
+menos 32 MB de RAM. Los controladores de la tarjeta gráfica deberán admitir DirectX 8.1 
+o superior. Si tienes problemas al ejecutar el juego, comprueba que
+has actualizado los controladores de la tarjeta gráfica antes de ponerte en contacto con la asistencia técnica.
+
+En los sistemas Windows ME, si activas Administración de energía, el juego mostrará deterioros gráficos y finalmente dejará de funcionar.
+
+Los usuarios solo pueden modificar la calidad del color desde Propiedades de pantalla situado bajo 
+Configuración - Panel de control - Pantalla - Propiedades de pantalla.
+
+Si el juego está demasiado oscuro, desactiva "Iluminación dinámica" en el menú de opciones bajo la Ficha de vídeo.
+
+NOTA: tarjetas 3Dfx: las tarjetas 3Dfx no se admiten oficialmente. Desgraciadamente, 3Dfx ya no saca al mercado controladores actualizados para sus conjuntos de chips y no admiten ciertas funciones de DirectX 8.
+Tal vez consigas encontrar un controlador actualizado en la siguiente página web: http://www.voodoofiles.com/.
+ 
+NOTA IMPORTANTE: Si decides instalar nuevos controladores 3Dfx, ¡hazlo por tu cuenta y riesgo!
+
+
+9) MULTIJUGADOR Y TECLADO
+---------------------------------------------------------------------------
+
+MULTIJUGADOR
+
+Los usuarios protegidos por cortafuegos o router no podrán participar en partidas multijugador.
+
+Cuando disputes una partida multijugador, todos los textos en pantalla aparecerán en el idioma del ordenador anfitrión.
+
+TECLADO
+
+Si un usuario asigna la tecla de windows a cualquier control, cada vez que presione dicha tecla el juego realizará la función deseada además de pasar a Windows e iniciar el menú Inicio.
+
+Todas las contraseñas distinguen entre mayúsculas y minúsculas.
+
+ 
+10) PÁGINAS WEB DE APOCALYPTICA(tm)
+---------------------------------------------------------------------------
+Página web general de Konami
+http://www.koeigames.com/
+
+Konami of Europe 
+http://www.konami-europe.com
+
+Konamistyle Europe
+http://www.konamistyle-europe.com 
+
+Página web de Apocalyptica Konami of America
+http://www.konami.com/apocalyptica/
+
+Página web oficial de Apocalyptica(tm)
+http://www.apocalyptica.net/
+
+
+ 
+11) ASISTENCIA TÉCNICA
+---------------------------------------------------------------------------
+Para conseguir los últimos parches, actualizaciones e información, visita la página web oficial de Apocalyptica en www.apocalyptica.net.
+
+Si tienes problemas al ejecutar el juego, deberías intentar actualizar 
+los controladores de la tarjeta gráfica antes de ponerte en contacto con el servicio de asistencia técnica.
+
+3D labs
+www.3dlabs.com
+
+ATI Technologies
+www.atitech.com
+
+Creative Labs
+www.creativelabs.com
+
+ELSA
+www.elsa.com
+
+Hercules
+www.hercules.com
+
+Matrox
+www.matrox.com
+
+NVIDIA
+www.nvidia.com
+
+PowerVR
+www.powervr.com
+ 
+
+
+
+
+
+
+
+E) ITALIANO
+
+Grazie per aver acquistato Apocalyptica(tm) per PC. Questo file contiene informazioni 
+tecniche dettagliate. Ti raccomandiamo di leggerlo con attenzione.
+
+
+INDICE
+---------------------------------------------------------------------------
+1)   REQUISITI DI SISTEMA
+2)   INSTALLAZIONE
+3)   MENU DI ESECUZIONE AUTOMATICA
+4)   AVVIARE IL GIOCO
+5)   DISINSTALLAZIONE
+6)   MEMORIA E PRESTAZIONI
+7)   DISPOSITIVI DI SICUREZZA DEL CD DI APOCALYPTICA(tm)
+8)   GRAFICA 
+9)   MODALITÀ MULTIGIOCATORE E TASTI
+10)  SITI WEB DI APOCALYPTICA(tm)
+11)  ASSISTENZA TECNICA
+
+---------------------------------------------------------------------------
+
+ 
+1)  REQUISITI DI SISTEMA 
+---------------------------------------------------------------------------
+Requisiti minimi di sistema
+  Sistema operativo Microsoft(r) Windows(r) 98/ME/XP/2000
+  Processore Intel(r) Pentium(r) III 800 MHz o equivalente 
+  128MB di RAM 
+  Unità CD/DVD ROM 4x 
+  Scheda video a 32 MB NVIDIA(r) GeForce(tm) 2, ATI(r) RADEON(tm) 8500/9100    
+  o equivalente
+  Scheda audio compatibile con Microsoft(r) DirectSound(r) 8 
+  Microsoft(r) DirectX(r) 8.1 o superiore (incluso nel CD)
+  1,2 GB di spazio libero sul disco rigido
+ 
+Raccomandati
+  Processore Intel(r) Pentium(r) 4 1.3 GHz o equivalente 
+  256MB di RAM
+  Unità CD-ROM 16x o unità DVD-ROM 2x
+Scheda video a 64 MB NVIDIA(r) GeForce(tm) o equivalente
+  Scheda audio Creative(tm) Soundblaster Live!(tm)
+ 
+  Per ottenere le migliori prestazioni dalla modalità multigiocatore online è necessaria una connessione a Internet 
+  a banda larga.
+ 
+
+NOTA: prima di poter giocare potrebbe rendersi necessario aggiornare i driver dell'hardware.
+
+
+2)  INSTALLAZIONE
+---------------------------------------------------------------------------
+Inserisci il CD 1 di Apocalyptica(tm) CD 1 nell'unità CD-ROM o DVD-ROM del computer. Dopo alcuni secondi apparirà il menu di esecuzione automatica. Fai clic su Installa e segui le istruzioni su schermo.
+
+Qualora, dopo aver inserito il CD, il menu di esecuzione automatica non apparisse: 
+Fai doppio clic sull'icona Risorse del computer, quindi sull'icona del CD/DVD-ROM e infine sul file Autorun.exe per richiamare il 
+menu di esecuzione automatica.
+
+Ti verrà chiesto di selezionare il percorso e la directory di installazione. Il 
+percorso di installazione predefinito è C:\Program Files\Konami\Apocalyptica. Il programma d'installazione
+offre all'utente l'opzione di installare DirectX 8.1. Installa questa 
+versione solo se sul tuo computer è presente una versione precedente di DirectX.
+
+Nota che se la lunghezza del nome della directory selezionata raggiunge o supera i 256 caratteri il gioco non verrà installato. 
+
+A questo punto dovresti essere in grado di giocare ad Apocalyptica(tm). 
+
+Nota:Se utilizzi Windows XP o Windows 2000, devi disporre 
+dei diritti di amministratore per installare ed eseguire Apocalyptica(tm). 
+  
+
+3)  MENU DI ESECUZIONE AUTOMATICA
+---------------------------------------------------------------------------
+Il menu di esecuzione automatica appare ogni volta che il CD 1 di Apocalyptica(tm) viene inserito 
+nell'unità CD/DVD ROM. Questo menu comprende diverse opzioni:
+
+*	Gioca - disponibile solo a installazione eseguita. Fai clic su questa opzione per cominciare 
+	a giocare ad Apocalyptica(tm). 
+*	Installa - disponibile solo se Apocalyptica(tm) non è ancora stato installato sul 
+	computer. Fai clic su questa opzione per installare il gioco. 
+*	Rimuovi - disponibile solo dopo che Apocalyptica(tm) è stato installato sul 
+	computer. Fai clic su questa opzione per disinstallare il gioco.
+*	Leggimi - File di istruzioni. 
+
+
+4)  AVVIARE IL GIOCO
+---------------------------------------------------------------------------
+Per cominciare a giocare ad Apocalyptica(tm), inserisci il CD 1 nell'unità CD-ROM o DVD-ROM e seleziona Gioca. In alternativa, fai clic sull'icona di Apocalyptica(tm) nella cartella programmi Konami\Apocalyptica. (Menu Start - Programmi - Konami - Apocalyptica). 
+ 
+
+5)  DISINSTALLAZIONE
+---------------------------------------------------------------------------
+Per disinstallare Apocalyptica(tm)puoi utilizzare uno dei seguenti metodi: 
+
+*	Inserisci il CD 1 di Apocalyptica(tm) e seleziona "Rimuovi" dal menu di esecuzione automatica. 
+*	Fai clic su START, seleziona Programmi, Konami, Apocalyptica(tm) e fai 
+	clic su Rimuovi Apocalyptica(tm). 
+*	Fai clic su START, Pannello di controllo, Installazione 
+	applicazioni e seleziona Apocalyptica(tm) per disinstallare il gioco.
+ 
+
+6)  MEMORIA E PRESTAZIONI
+---------------------------------------------------------------------------
+Apocalyptica(tm) richiede almeno 128 MB di RAM e un processore Pentium(r) III 800 MHz; 
+le prestazioni del gioco risulteranno migliori se si dispone di una quantità maggiore di RAM e 
+di un processore e di una scheda grafica più veloci. In ogni caso, puoi 
+aumentare la memoria disponibile e migliorare le prestazioni complessive 
+del gioco eseguendo queste operazioni: 
+
+*	Chiudi qualsiasi applicazione di Windows non strettamente necessaria, in particolar modo programmi di chat, 
+	antivirus e utilità per la gestione del layout dello schermo. 
+*	Deframmenta regolarmente il disco rigido. 
+*	Aumenta lo spazio libero su disco
+
+
+7)  DISPOSITIVI DI SICUREZZA DEL CD DI APOCALYPTICA(tm)
+---------------------------------------------------------------------------
+
+Nel corso del gioco Apocalyptica(tm) dovrà di tanto in tanto leggere dati dal CD 1. Assicurati di tenere 
+sempre inserito il CD 1 nell'unità CD. La sua rimozione potrebbe attivare i dispositivi di sicurezza del CD, 
+con ripercussioni sulle prestazioni di Apocalyptica(tm)
+
+
+8)  GRAFICA 
+---------------------------------------------------------------------------
+
+Apocalyptica(tm) richiede una scheda grafica con accelerazione hardware 3D e 
+almeno 32 MB di RAM. I driver della scheda grafica devono supportare DirectX 8.1 
+o superiore. In caso di problemi nell'esecuzione del gioco, verifica 
+di aver aggiornato i driver della scheda video prima di contattare l'assistenza tecnica.
+
+Attivando la funzione di risparmio energia sotto Windows ME, la grafica del gioco apparirà distorta e il gioco finirà per bloccarsi.
+
+È possibile modificare la qualità del colore soltanto nella finestra Proprietà-Schermo che si trova in
+Impostazioni - Pannello di controllo - Schermo - Proprietà-Schermo.
+
+Se la grafica è troppo scura, disattiva "Illuminazione dinamica" nella scheda Video del menu delle opzioni.
+
+NOTA: le schede 3Dfx non sono ufficialmente supportate. 3Dfx non rilascia più driver aggiornati per i propri chipset e non supporta alcune funzioni di DirectX 8.
+Potresti però riuscire a trovare un driver aggiornato sul sito Web http://www.voodoofiles.com/.
+ 
+IMPORTANTE: l'installazione di nuovi driver per 3Dfx è a rischio esclusivo dell'utente!
+
+
+9) MODALITÀ MULTIGIOCATORE E TASTI 
+---------------------------------------------------------------------------
+
+MODALITÀ MULTIGIOCATORE
+
+Non è possibile accedere a partite multigiocatore se la connessione ai server di gioco avviene attraverso un firewall o un router.
+
+Durante una partita multigiocatore tutti i testi a schermo appariranno nella lingua del computer host.
+
+CHIAVI
+
+Se si associa un controllo al tasto Windows, ogni volta che il tasto viene premuto il gioco eseguirà la funzione desiderata e richiamerà a video il menu di avvio di Windows.
+
+Tutte le password sono case sensitive.
+
+ 
+10)  SITI WEB DI APOCALYPTICA(tm)
+---------------------------------------------------------------------------
+Sito Web globale di Konami 
+http://www.konami.com
+
+Konami of Europe 
+http://www.konami-europe.com
+
+Sito Web ufficiale di Apocalyptica(tm)
+http://www.apocalyptica.net/
+
+
+ 
+11)  ASSISTENZA TECNICA
+---------------------------------------------------------------------------
+Servizio di assistenza tecnica Halifax: 02/4130345. Un operatore sarà a tua disposizione dal lunedì al venerdì, dalle ore 14 alle ore 19.
+
+Per patch, aggiornamenti e informazioni, visita il sito ufficiale di Apocalyptica all'indirizzo www.apocalyptica.net
+
+Qualora riscontrassi problemi nell'esecuzione del gioco, prova ad aggiornare 
+i driver della scheda grafica prima di contattare l'assistenza tecnica:
+
+3D labs
+www.3dlabs.com
+
+ATI Technologies
+www.atitech.com
+
+Creative Labs
+www.creativelabs.com
+
+ELSA
+www.elsa.com
+
+Hercules
+www.hercules.com
+
+Matrox
+www.matrox.com
+
+NVIDIA
+www.nvidia.com
+
+PowerVR
+www.powervr.com
+ 
+
+
+
+
+
+
+
+F) NEDERLANDS
+
+Hartelijk dank voor de aankoop van Apocalyptica(tm) voor de PC. 
+Dit bestand bevat gedetailleerde technische informatie. Lees het aandachtig door.
+
+
+INHOUDSOPGAVE
+---------------------------------------------------------------------------
+1)   SYSTEEMVEREISTEN
+2)   DE GAME INSTALLEREN
+3)   HET MENU AUTORUN
+4)   DE GAME STARTEN
+5)   INSTALLATIE VAN DE GAME ONGEDAAN MAKEN
+6)   GEHEUGEN EN PRESTATIES
+7)   APOCALYPTICA(tm) CD-BEVEILIGING
+8)   BEELDWEERGAVE
+9)   MULTIPLAYER EN TOETSEN
+10)  APOCALYPTICA(tm) WEBSITES
+11)  TECHNICAL SUPPORT
+
+---------------------------------------------------------------------------
+
+  
+1)  SYSTEEMVEREISTEN
+---------------------------------------------------------------------------
+Minimum systeemvereisten
+  Microsoft(r) Windows(r) 98 SE/ME/2000/XP
+  Intel(r) Pentium(r) III 800 MHz of gelijkwaardige processor 
+  128 MB RAM 
+  4x CD/DVD ROM 
+  32 MB NVIDIA(r) GeForce(tm) 2 videokaart, ATI(r) RADEON(tm) 8500/9100 of gelijkwaardige grafische kaart
+  Microsoft(r) DirectSound(r) 8 compatibele geluidskaart
+  Microsoft(r) DirectX(r) 8.1 of hoger (aanwezig op CD)
+  1,2 GB vrije ruimte op de vaste schijf
+  
+Aanbevolen
+  Intel(r) Pentium(r) 4 1.3 GHz of gelijkwaardige processor 
+  256 MB RAM 
+  16x CD-ROM of 2x DVD-ROM
+  64 MB NVIDIA(r) GeForce(tm) videokaart of gelijkwaardige grafische kaart
+  Creative(tm) Soundblaster Live!(tm) geluidskaart
+  
+  Voor de echte online multiplayer ervaring is een breedband internetverbinding nodig.
+ 
+
+Opmerking: Mogelijk dienen de hardware-drivers te worden bijgewerkt voordat de game goed werkt.
+
+
+2)  DE GAME INSTALLEREN
+---------------------------------------------------------------------------
+Plaats CD 1 van Apocalyptica(tm) in het CD-ROM of DVD-ROM station. Na een paar seconden verschijnt het menu Autorun. Klik op Install om het installatieprogramma te starten en volg de aanwijzingen op het scherm.
+
+Mocht het menu Autorun niet verschijnen nadat de CD is geplaatst: 
+Dubbelklik op het pictogram Mijn computer, dubbelklik op het pictogram CD/DVD-ROM en dubbelklik tenslotte op het bestand Autorun.exe om het menu Autorun op te roepen.
+
+De eerste vraag is in welke map het programma geïnstalleerd moet worden. De standaard map voor installatie is C:\Program Files\Konami\Apocalyptica. Het installatieprogramma vraagt of DirectX 8.1 geïnstalleerd moet worden. Installeer deze versie alleen als er een oudere versie van DirectX op je machine staat.
+
+Denk er aan dat de game zich niet laat installeren als je een installatiemap opgeeft waarvan de naam meer dan 256 tekens bevat. 
+
+Als het goed is, kun je nu Apocalyptica(tm) gaan spelen. 
+
+Opmerking: als je Apocalyptica(tm) wilt gebruiken onder Windows XP of Windows 2000 moet je administrator-rechten hebben om de game te kunnen installeren en spelen. 
+ 
+
+3)  HET MENU AUTORUN
+---------------------------------------------------------------------------
+Elke keer dat je CD 1 van Apocalyptica(tm) in je CD/DVD ROM station plaatst, verschijnt het menu Autorun. Dit menu kent verschillende opties:
+
+*	Play - alleen beschikbaar nadat je de game hebt geïnstalleerd. Klik er op om Apocalyptica(tm) te spelen. 
+*	Install - alleen beschikbaar als je Apocalyptica(tm) nog niet op je systeem hebt geïnstalleerd. Klik er op om de game te installeren. 
+*	Uninstall - alleen beschikbaar als Apocalyptica(tm) reeds is geïnstalleerd op je systeem. Klik er op om de installatie van de game ongedaan te maken.
+*	Readme - Instructies. 
+
+
+4)  DE GAME STARTEN
+---------------------------------------------------------------------------
+Plaats CD 1 van Apocalyptica(tm) in het CD-ROM of DVD-ROM station en kies Play. Je kunt ook op het pictogram van Apocalyptica(tm) klikken dat zich in de programmamap Konami\Apocalyptica bevindt. (Start - Programma's - Konami - Apocalyptica). 
+ 
+
+5)  INSTALLATIE VAN DE GAME ONGEDAAN MAKEN
+---------------------------------------------------------------------------
+De installatie van Apocalyptica(tm) kan op één van de volgende manieren ongedaan worden gemaakt: 
+
+*	Plaats CD 1 van Apocalyptica(tm) in het station en kies Uninstall in het menu Autorun. 
+*	Klik op Start, kies Programma's, Konami, Apocalyptica(tm) en klik op Uninstall Apocalyptica(tm). 
+*	Klik op de knop Start en ga naar Configuratiescherm, Software en kies Apocalyptica(tm) om de installatie ongedaan te maken.
+ 
+
+6)  GEHEUGEN EN PRESTATIES
+---------------------------------------------------------------------------
+Voor het spelen van Apocalyptica(tm) is minimaal 128 MB RAM en een Pentium(r) III 800 MHz processor nodig. De prestaties van de game gaan omhoog met meer RAM en een snellere processor en grafische kaart. Wat voor systeem je ook hebt, de game speelt altijd beter als je het beschikbare geheugen maximaliseert. Dit doe je als volgt: 
+
+*	Sluit alle niet-essentiële Windows-programma's af en met name chat-programma's, viruscheckers en schermhulpprogramma's. 
+*	Defragmenteer je vaste schijf regelmatig. 
+*	Vergroot de hoeveelheid vrije ruimte op je vaste schijf
+
+
+7)  APOCALYPTICA(tm) CD-BEVEILIGING
+---------------------------------------------------------------------------
+
+Apocalyptica(tm) moet zo nu en dan gegevens lezen van CD 1. Zorg er voor dat CD 1 tijdens de game altijd in het CD-station zit. ALs je de CD er uit haalt, kan dit allerlei beveiligingsmechanismen activeren die de prestaties van Apocalyptica(tm) omlaag halen.
+
+
+8)  BEELDWEERGAVE
+---------------------------------------------------------------------------
+
+Apocalyptica(tm) heeft een grafische kaart nodig met 3D hardwarematige beeldversnelling en minimaal 32 MB RAM. De drivers voor je grafische kaart dienen DirectX 8.1 of hoger te ondersteunen. Als je problemen hebt met het spelen van de game, controleer dan eerst of je de meeste recente drivers hebt voor je grafische kaart voordat je contact opneemt met onze technical support.
+
+Als Energiebheer aan staat onder Windows ME dan zal de beeldweergave van de game af en toe haperen en zal de PC uiteindelijk vastlopen.
+
+De kleurkwaliteit kan alleen worden ingesteld onder de eigenschappen Display onder Settings - Control Panel - Display - Display Properties.
+
+Zet "Dynamic Lighting" uit in het optiemenu op de tab Video als de game te donker is.
+
+Opmerking: 3Dfx-kaarten - 3Dfx-kaarten worden officieel niet ondersteund. Helaas brengt 3Dfx geen bijgewerkte drivers meer uit voor hun chipsets en ondersteunen ze bepaalde features van DirectX 8 niet.
+Op de volgende website vind je misschien nog een bijgewerkte driver: http://www.voodoofiles.com/.
+ 
+Opmerking: Als je nieuwe 3Dfx-drivers installeert, dan doe je dat op eigen risico.
+
+
+9)  MULTIPLAYER EN TOETSEN
+---------------------------------------------------------------------------
+
+MULTIPLAYER
+
+Als je systeem achter een firewall of router zit, kun je geen multiplayer-games spelen.
+
+Als je een multiplayer-game speelt, dan verschijnt alle tekst in de taal die is ingesteld op de host-machine.
+
+TOETSEN
+
+Als je de Windows-toets aan een functie in de game toewijst, dan gebeurt er het volgende als je in de game op de Windows-toets drukt: de game voert de toegewezen functie uit, er wordt overgeschakeld naar Windows en Windows opent het menu Start.
+
+Alle wachtwoorden zijn hoofdlettergevoelig.
+
+ 
+10)  APOCALYPTICA(tm) WEBSITES
+---------------------------------------------------------------------------
+De wereldwijde website van Konami
+http://www.konami.com
+
+Konami Europa
+http://www.konami-europe.com
+ 
+Officiële Apocalyptica(tm) website
+http://www.apocalyptica.net/
+
+
+
+11)  TECHNICAL SUPPORT
+---------------------------------------------------------------------------
+Ga naar www.apocalyptica.net, de officiële Apocalyptica-website, voor de meest recente patches, updates en andere informatie.
+
+Als je problemen hebt met het spelen van de game, controleer dan eerst of je de meeste recente drivers hebt voor je grafische kaart voordat je contact opneemt met onze technical support.
+
+3D labs
+www.3dlabs.com
+
+ATI Technologies
+www.atitech.com
+
+Creative Labs
+www.creativelabs.com
+
+ELSA
+www.elsa.com
+
+Hercules
+www.hercules.com
+
+Matrox
+www.matrox.com
+
+NVIDIA
+www.nvidia.com
+
+PowerVR
+www.powervr.com
+
+
+
+
+
+
+
+
+---------------------------------------------------------------------------
+(c) 2003 KONAMI & Extreme FX. All rights reserved. "Apocalyptica" and "KONAMI" are either trademarks or registered trademarks of KONAMI CORPORATION.
+
+DirectSound, DirectX, DirectSound, DirectX, Microsoft and Windows are either registered trademarks or trademarks of Microsoft Corporation in the U.S. and/or other countries. AMD and AMD Athlon are trademarks or registered trademarks of Advanced Micro Devices, Inc. Intel and Pentium are registered trademarks of Intel Corporation and its subsidiaries in the United States and other countries. The name NVIDIA, the NVIDIA logo and GeForce are registered trademarks or trademarks of NVIDIA Corporation in the United States and/or other countries. The term "The way it's meant to be played," and the "NVIDIA: The way it's meant to be played" logo are trademarks of NVIDIA Corporation. Sound Blaster and Live! are trademarks or registered trademarks of Creative Technology Ltd. GameSpy and the "Powered by GameSpy" design are trademarks of GameSpy Industries, Inc. All rights reserved. Other company and product names may be trademarks or registered trademarks of the respective owners with which they are associated.
